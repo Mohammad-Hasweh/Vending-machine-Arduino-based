@@ -23,7 +23,7 @@ This project demonstrates a combination of mechanical design, embedded systems, 
 
 ## Demonstration:
 - Here is a video that shows how the machine works:
-  [![Vending Machine Demonstration](https://img.youtube.com/vi/C-HOyqXvopw/0.jpg)](https://youtu.be/C-HOyqXvopw)
+  [![Vending Machine Demonstration]](https://youtu.be/C-HOyqXvopw)
 
 ‎The project was submitted in January ‎1, ‎2024,
   
