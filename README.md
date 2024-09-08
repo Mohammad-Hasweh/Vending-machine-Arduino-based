@@ -1,7 +1,7 @@
 # Vending Machine - Arduino-based
 This project is a custom-built vending machine using an Arduino Uno, integrating various components for coin detection, dispensing, and sorting. It was part of an academic course at my university.
 
-![Vending Machine Prototype](vending-machine.PNG)
+![Vending Machine Prototype](images/vending-machine.PNG)
 
 ## Components Used:
 - **Arduino Uno**
@@ -23,11 +23,11 @@ This project demonstrates a combination of mechanical design, embedded systems, 
 ## Demonstration:
 - Here is a video that shows how the machine works:
 
-![Vending Machine Demo](video_Demonstration.gif)
+![Vending Machine Demo](images/video_Demonstration.gif)
 
 -Here is the vending machine itself in action:
 
-![Vending Machine Demo](result_vending.gif)
+![Vending Machine Demo](images/result_vending.gif)
 
 
 ‎The project was submitted in January ‎1, ‎2024
