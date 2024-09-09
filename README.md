@@ -22,11 +22,9 @@ This project demonstrates a combination of mechanical design, embedded systems, 
 
 ## Demonstration:
 - Here is a video that shows how the machine works:
-
 ![Vending Machine Demo](images/video_Demonstration.gif)
 
 -Here is the vending machine itself in action:
-
 ![Vending Machine Demo](images/result_vending.gif)
 
 
