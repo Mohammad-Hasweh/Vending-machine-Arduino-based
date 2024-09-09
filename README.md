@@ -21,11 +21,11 @@ This project is a custom-built vending machine using an Arduino Uno, integrating
 This project demonstrates a combination of mechanical design, embedded systems, and sensor integration to create a functional vending machine prototype.
 
 ## Demonstration:
-- Here is a video that shows how the machine works:
-![Vending Machine Demo](images/video_Demonstration.gif)
+  - Here is a video that shows how the machine works:
+  ![Vending Machine Demo](video_Demonstration.gif)
 
--Here is the vending machine itself in action:
-![Vending Machine Demo](images/result_vending.gif)
+  -Here is the vending machine itself in action:
+  ![Vending Machine Demo](result_vending.gif)
 
 
 ‎The project was submitted in January ‎1, ‎2024
